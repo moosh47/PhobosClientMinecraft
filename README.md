@@ -5,10 +5,8 @@
 2. Deleted: PlayerUtil, RenderUtil$RenderTesselator, etc;
 
 3. Deleted Shadow Jar;
- 
-4. Made Compatebility To Github;
 
-5. Ran The Client;
+4. Ran The Client;
 
-6.  etc.
+5.  etc.
 
