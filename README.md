@@ -1,7 +1,14 @@
-# CLEAN_Phobos_1.9.0-BUILDABLE-SRC
+# A Phobos Recode. 
 
-Buildable src reconstructed from the clean Phobos 1.9.0 jar. Full buildable and functional, jar in releases is built from this clean src. 
+1. ReInstalled Mixin's;
 
-How to build
-Macos: ./gradlew build
-Windows: gradlew build
+2. Deleted: PlayerUtil, RenderUtil$RenderTesselator, etc;
+
+3. Deleted Shadow Jar;
+ 
+4. Made Compatebility To Github;
+
+5. Ran The Client;
+
+6.  etc.
+
